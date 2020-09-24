@@ -1,0 +1,28 @@
+.honor-labels.data-v-75f65230 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  background-color: #fff;
+}
+.honor-labels .item.data-v-75f65230 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  text-align: center;
+}
+.honor-labels .item .num.data-v-75f65230 {
+  color: #333;
+  font-size: 28rpx;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+.honor-labels .item .num .txt.data-v-75f65230 {
+  margin-left: 6rpx;
+  color: #999;
+  font-size: 24rpx;
+}
+.honor-labels .item .tit.data-v-75f65230 {
+  color: #999;
+  font-size: 24rpx;
+}
+

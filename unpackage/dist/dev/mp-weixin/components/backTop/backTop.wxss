@@ -1,0 +1,16 @@
+.backTop.data-v-686694bd {
+  color: #007aff;
+  background-color: #fff;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+  width: 100rpx;
+  height: 100rpx;
+  line-height: 100rpx;
+  text-align: center;
+  -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.5);
+          box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  position: fixed;
+  bottom: 80rpx;
+  right: 32rpx;
+}
+

@@ -1,0 +1,83 @@
+.bookList.data-v-482e62a8 {
+  margin: 24rpx 0;
+  margin-bottom: 100rpx;
+}
+.bookList .title.data-v-482e62a8 {
+  margin: 0 32rpx;
+  font-size: 32rpx;
+  font-weight: 600;
+  margin-bottom: 24rpx;
+}
+.bookList .main .main-up.data-v-482e62a8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 32rpx;
+}
+.bookList .main .main-up .main-up-cover-img.data-v-482e62a8 {
+  width: 132rpx;
+  height: 184rpx;
+  margin-right: 16rpx;
+}
+.bookList .main .main-up .main-up-info.data-v-482e62a8 {
+  overflow: hidden;
+}
+.bookList .main .main-up .main-up-info .book-name.data-v-482e62a8 {
+  font-size: 28rpx;
+  font-weight: 600;
+  line-height: 1.4;
+}
+.bookList .main .main-up .main-up-info .book-desc.data-v-482e62a8 {
+  margin: 12rpx 0 18rpx;
+  font-size: 26rpx;
+  color: #999;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.bookList .main .main-up .main-up-info .book-meta.data-v-482e62a8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font-size: 26rpx;
+  color: #999;
+  line-height: 1.5;
+}
+.bookList .main .main-up .main-up-info .book-meta .book-tag.data-v-482e62a8 {
+  position: relative;
+  margin: 0 6rpx;
+  padding: 0 10rpx;
+  font-size: 24rpx;
+}
+.bookList .main .main-up .main-up-info .book-meta .book-tag.lightblue.data-v-482e62a8 {
+  color: #f69a48;
+}
+.bookList .main .main-up .main-up-info .book-meta .book-tag.lightgreen.data-v-482e62a8 {
+  color: #f16299;
+}
+.bookList .main .main-up .main-up-info .book-meta .book-tag.smallblue.data-v-482e62a8 {
+  color: #65b1f5;
+}
+.bookList .main .main-up .main-up-info .book-meta .book-tag.data-v-482e62a8::after {
+  content: '';
+  position: absolute;
+  top: 0px;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  border-bottom: 1px solid;
+  border-right: 1px solid;
+  -webkit-border-radius: 4rpx;
+          border-radius: 4rpx;
+  opacity: 0.5;
+  z-index: -1;
+}
+

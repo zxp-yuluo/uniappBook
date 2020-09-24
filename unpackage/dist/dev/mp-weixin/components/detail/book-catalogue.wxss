@@ -1,0 +1,42 @@
+.book-catalogue.data-v-261d82f3 {
+  height: 100rpx;
+  line-height: 100rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.book-catalogue .title.data-v-261d82f3 {
+  font-size: 32rpx;
+  padding-left: 30rpx;
+  width: 100rpx;
+  -webkit-flex-shrink: 0;
+          flex-shrink: 0;
+}
+.book-catalogue .chapter.data-v-261d82f3 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  font-size: 26rpx;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.book-catalogue .icon.data-v-261d82f3 {
+  -webkit-flex-shrink: 0;
+          flex-shrink: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+          justify-content: flex-end;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin: 0 30rpx;
+}
+.book-catalogue .icon .icon-ima.data-v-261d82f3 {
+  width: 24rpx;
+  height: 24rpx;
+}
+

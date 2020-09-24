@@ -1,0 +1,1 @@
+<view class="book-catalogue data-v-261d82f3"><view class="title data-v-261d82f3">目录</view><view class="chapter data-v-261d82f3">{{''+undateTime+" · 连载至 · "+bookDetail.lastChapter+''}}</view><view class="icon data-v-261d82f3"><image class="icon-ima data-v-261d82f3" src="../../static/img/iconfont/youjiantou.png" mode></image></view></view>

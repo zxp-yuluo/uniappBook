@@ -1,0 +1,29 @@
+.book-info-btns.data-v-39f53f60 {
+  margin: 35rpx 30rpx 0 30rpx;
+  padding-bottom: 30rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  border-bottom: 1px solid #eee;
+}
+.book-info-btns .btn.data-v-39f53f60 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  height: 70rpx;
+  line-height: 70rpx;
+  text-align: center;
+  border: 1px solid #ffd700;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
+  color: #ffd700;
+  font-size: 32rpx;
+}
+.book-info-btns .btn.redBtn.data-v-39f53f60 {
+  margin-right: 16rpx;
+  background: #ffd700;
+  color: #fff;
+}
+

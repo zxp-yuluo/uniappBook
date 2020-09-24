@@ -1,0 +1,61 @@
+{
+  "pages": [
+    "pages/books/books",
+    "pages/bookshelf/bookshelf",
+    "pages/category/category",
+    "pages/profiles/profiles",
+    "pages/ranking/ranking",
+    "pages/search/search",
+    "pages/detail/detail",
+    "pages/catalog/catalog",
+    "pages/readBook/readBook",
+    "pages/category/categoryDetail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#FFD700",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#2c2c2c",
+    "selectedColor": "#FFD700",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/bookshelf/bookshelf",
+        "iconPath": "static/img/tabBar/bookshelf.png",
+        "selectedIconPath": "static/img/tabBar/bookshelf-active.png",
+        "text": "书架"
+      },
+      {
+        "pagePath": "pages/books/books",
+        "iconPath": "static/img/tabBar/book.png",
+        "selectedIconPath": "static/img/tabBar/book-active.png",
+        "text": "书城"
+      },
+      {
+        "pagePath": "pages/category/category",
+        "iconPath": "static/img/tabBar/category.png",
+        "selectedIconPath": "static/img/tabBar/category-active.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/ranking/ranking",
+        "iconPath": "static/img/tabBar/paihang.png",
+        "selectedIconPath": "static/img/tabBar/paihang-active.png",
+        "text": "排行"
+      },
+      {
+        "pagePath": "pages/profiles/profiles",
+        "iconPath": "static/img/tabBar/profiles.png",
+        "selectedIconPath": "static/img/tabBar/profiles-active.png",
+        "text": "个人"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap21.json"
+}

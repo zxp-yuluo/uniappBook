@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "分类详情",
+  "usingComponents": {
+    "loading": "/components/loading/loading",
+    "back-top": "/components/backTop/backTop"
+  }
+}

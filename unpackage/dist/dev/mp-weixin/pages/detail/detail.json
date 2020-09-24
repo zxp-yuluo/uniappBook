@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "作品详情",
+  "usingComponents": {
+    "loading": "/components/loading/loading",
+    "book-profile": "/components/detail/book-profile",
+    "honor-labels": "/components/detail/honor-labels",
+    "book-info-btns": "/components/detail/book-info-btns",
+    "book-summary": "/components/detail/book-summary",
+    "book-catalogue": "/components/detail/book-catalogue",
+    "book-comment": "/components/detail/book-comment",
+    "back-top": "/components/backTop/backTop"
+  }
+}

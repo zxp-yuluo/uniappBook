@@ -1,0 +1,99 @@
+.data-v-7c210e8f ::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+}
+.bookshelf.data-v-7c210e8f,
+.scroll.data-v-7c210e8f {
+  height: 100%;
+}
+.itemWrap.data-v-7c210e8f {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease;
+}
+.itemWrap.transition.data-v-7c210e8f {
+  -webkit-transform: translateX(-80px);
+          transform: translateX(-80px);
+}
+.itemWrap .del.data-v-7c210e8f {
+  width: 80px;
+  background-color: #ffd700;
+  margin-bottom: 40rpx;
+  -webkit-flex-shrink: 0;
+          flex-shrink: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  color: #fff;
+}
+.bookList.data-v-7c210e8f {
+  margin: 24rpx 32rpx;
+  padding-top: 4rpx;
+  overflow: hidden;
+}
+.bookList .item.data-v-7c210e8f {
+  width: 100%;
+  -webkit-flex-shrink: 0;
+          flex-shrink: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-bottom: 40rpx;
+}
+.bookList .item.data-v-7c210e8f:last-child {
+  margin-bottom: 24rpx;
+}
+.bookList .item .cover.data-v-7c210e8f {
+  -webkit-flex-shrink: 0;
+          flex-shrink: 0;
+  padding-left: 4rpx;
+}
+.bookList .item .cover image.data-v-7c210e8f {
+  width: 132rpx;
+  height: 176rpx;
+  margin-right: 20rpx;
+  -webkit-box-shadow: 0 0 5px rgba(0,0,0,0.5);
+          box-shadow: 0 0 5px rgba(0,0,0,0.5);
+  vertical-align: middle;
+}
+.bookList .item .other.data-v-7c210e8f {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 15rpx 0;
+}
+.bookList .item .other .title.data-v-7c210e8f {
+  font-size: 28rpx;
+  font-weight: 600;
+  color: #666;
+}
+.bookList .item .other .desc.data-v-7c210e8f {
+  font-size: 26rpx;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+  color: #808080;
+  padding-right: 10rpx;
+}
+

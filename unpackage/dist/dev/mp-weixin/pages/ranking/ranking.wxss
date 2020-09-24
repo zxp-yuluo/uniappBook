@@ -1,0 +1,141 @@
+.down.data-v-5997f1b9 {
+  font-size: 28rpx;
+  text-align: center;
+  color: #666;
+  margin: 12px 15px;
+  line-height: 60rpx;
+  background-color: #eeecdf;
+}
+.msg.data-v-5997f1b9 {
+  padding-top: 24rpx;
+  font-size: 28rpx;
+  text-align: center;
+  color: #666;
+}
+.profiles.data-v-5997f1b9 {
+  height: 100%;
+}
+.profiles .header.data-v-5997f1b9 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #fff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  height: 43px;
+  line-height: 43px;
+  border-bottom: 1rpx solid #f1f1f1;
+  z-index: 99;
+}
+.profiles .header .h-item.data-v-5997f1b9 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  font-size: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.profiles .header .h-item text.data-v-5997f1b9 {
+  height: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.profiles .header .h-item text.h-item-active.data-v-5997f1b9 {
+  color: #ffd700;
+  font-weight: 600;
+  border-bottom: 6rpx solid #ffd700;
+}
+.profiles .main.data-v-5997f1b9 {
+  height: 100%;
+  padding-top: 43px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  position: relative;
+}
+.profiles .main .scroll-left.data-v-5997f1b9 {
+  width: 137rpx;
+  position: absolute;
+  top: 43px;
+  left: 0;
+  bottom: 0;
+  background-color: #f8f7f2;
+}
+.profiles .main .scroll-left.data-v-5997f1b9 ::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  background-color: transparent;
+}
+.profiles .main .scroll-left .left-item.data-v-5997f1b9 {
+  line-height: 50px;
+  height: 50px;
+  font-size: 28rpx;
+  color: #666;
+  text-align: center;
+  border-bottom: 1rpx solid #eeecdf;
+}
+.profiles .main .scroll-left .left-item.active.data-v-5997f1b9 {
+  background-color: #fff;
+  border-left: 6rpx solid #ffd700;
+}
+.profiles .main .scroll-right.data-v-5997f1b9 {
+  padding-left: 137rpx;
+  padding-top: 30rpx;
+  height: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.profiles .main .scroll-right .item.data-v-5997f1b9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 0 30rpx;
+  margin-top: 24rpx;
+}
+.profiles .main .scroll-right .item .cover.data-v-5997f1b9 {
+  margin-right: 24rpx;
+  border: 1rpx solid #dedede;
+  padding: 5rpx 0 0 5rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-flex-shrink: 0;
+          flex-shrink: 0;
+}
+.profiles .main .scroll-right .item .cover image.data-v-5997f1b9 {
+  vertical-align: middle;
+  width: 130rpx;
+  height: 176rpx;
+  -webkit-border-radius: 4rpx;
+          border-radius: 4rpx;
+}
+.profiles .main .scroll-right .item .info.data-v-5997f1b9 {
+  overflow: hidden;
+}
+.profiles .main .scroll-right .item .info .title.data-v-5997f1b9 {
+  font-size: 28rpx;
+}
+.profiles .main .scroll-right .item .info .desc.data-v-5997f1b9 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  font-size: 24rpx;
+  color: #666;
+  margin: 17rpx 0;
+}
+.profiles .main .scroll-right .item .info .other.data-v-5997f1b9 {
+  font-size: 24rpx;
+  color: #666;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.profiles .main .scroll-right .item .info .other .dian.data-v-5997f1b9 {
+  margin: 0 10rpx;
+}
+

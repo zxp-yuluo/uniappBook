@@ -1,0 +1,241 @@
+#warp.data-v-1bbdcc6b {
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease;
+}
+.data-v-1bbdcc6b ::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+}
+.readBook.data-v-1bbdcc6b {
+  height: 100%;
+  background-color: #c3d4e6;
+  position: relative;
+}
+.readBook .catalogueWrap.data-v-1bbdcc6b {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  -webkit-transform: translateX(-100%);
+          transform: translateX(-100%);
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease;
+}
+.readBook .catalogueWrap.translate.data-v-1bbdcc6b {
+  -webkit-transform: translateX(0);
+          transform: translateX(0);
+}
+.readBook .catalogueWrap .catalogue.data-v-1bbdcc6b {
+  background-color: #f1f1f1;
+  height: 100%;
+  width: 70%;
+}
+.readBook .catalogueWrap .catalogue .title.data-v-1bbdcc6b {
+  line-height: 60px;
+  padding-left: 24rpx;
+  font-size: 32rpx;
+  color: #666;
+  border-bottom: 1rpx solid #ebebeb;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.readBook .catalogueWrap .catalogue .bookScroll.data-v-1bbdcc6b {
+  height: calc(100% - 60px);
+}
+.readBook .catalogueWrap .catalogue .bookScroll .bookList.data-v-1bbdcc6b {
+  padding-left: 24rpx;
+}
+.readBook .catalogueWrap .catalogue .bookScroll .bookList .listItem.data-v-1bbdcc6b {
+  font-size: 24rpx;
+  line-height: 40px;
+  border-top: 1rpx solid #ebebeb;
+}
+.readBook .catalogueWrap .catalogue .bookScroll .bookList .listItem.data-v-1bbdcc6b:first-of-type {
+  border-top: 0;
+}
+.readBook .catalogueWrap .catalogue .bookScroll .bookList .listItem.activeColor.data-v-1bbdcc6b {
+  color: #ffd700;
+}
+.readBook .page-read-option.data-v-1bbdcc6b {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 999;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.readBook .page-read-option .header.data-v-1bbdcc6b {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  text-align: center;
+  font-size: 28rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  background: rgba(0,0,0,0.9);
+  color: #fff;
+}
+.readBook .page-read-option .header .header-left.data-v-1bbdcc6b,
+.readBook .page-read-option .header .header-right.data-v-1bbdcc6b {
+  -webkit-flex-shrink: 0;
+          flex-shrink: 0;
+  width: 100rpx;
+}
+.readBook .page-read-option .header .header-center.data-v-1bbdcc6b {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.readBook .page-read-option .footer.data-v-1bbdcc6b {
+  background: rgba(0,0,0,0.9);
+  color: #fff;
+  padding-top: 24rpx;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.readBook .page-read-option .footer .fontSize.data-v-1bbdcc6b {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 0 24rpx;
+  margin-bottom: 20rpx;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  font-size: 32rpx;
+}
+.readBook .page-read-option .footer .fontSize .decrease.data-v-1bbdcc6b,
+.readBook .page-read-option .footer .fontSize .increase.data-v-1bbdcc6b {
+  margin: 0 10rpx;
+  width: 200rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+  text-align: center;
+  border: 1rpx solid #535353;
+  -webkit-border-radius: 4rpx;
+          border-radius: 4rpx;
+}
+.readBook .page-read-option .footer .eyeshieldWrap.data-v-1bbdcc6b {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-bottom: 20rpx;
+  padding: 0 24rpx;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+}
+.readBook .page-read-option .footer .eyeshieldWrap .eyeshield.data-v-1bbdcc6b {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.readBook .page-read-option .footer .eyeshieldWrap .eyeshield .bgc.data-v-1bbdcc6b {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  margin: 0 20rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+  width: 64rpx;
+  height: 64rpx;
+}
+.readBook .page-read-option .footer .eyeshieldWrap .eyeshield .bgc.active.data-v-1bbdcc6b {
+  border: 1rpx solid #f47983;
+}
+.readBook .page-read-option .footer .operation.data-v-1bbdcc6b {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 32rpx;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  border-top: 1rpx solid #c0c0c0;
+}
+.readBook .page-read-option .footer .operation .catalogue.data-v-1bbdcc6b {
+  margin: 0 10rpx;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  text-align: center;
+  line-height: 80rpx;
+}
+.readBook .page-read-option .footer .operation .prev.data-v-1bbdcc6b {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  text-align: center;
+  line-height: 80rpx;
+  border-right: 1rpx solid #c0c0c0;
+}
+.readBook .page-read-option .footer .operation .next.data-v-1bbdcc6b {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  text-align: center;
+  line-height: 80rpx;
+  border-left: 1rpx solid #c0c0c0;
+}
+.readBook .scroll.data-v-1bbdcc6b {
+  height: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  position: relative;
+}
+.readBook .scroll .title.data-v-1bbdcc6b {
+  margin: 10rpx;
+  padding: 0 32rpx;
+  font-size: 32rpx;
+  font-weight: 600;
+}
+.readBook .scroll .content.data-v-1bbdcc6b {
+  padding: 0 32rpx;
+}
+.readBook .scroll .content .item.data-v-1bbdcc6b {
+  font-size: 28rpx;
+  line-height: 1.5;
+  text-indent: 2em;
+  margin-bottom: 10rpx;
+  color: #333;
+}
+.readBook .scroll .change.data-v-1bbdcc6b {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 0 32rpx;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  margin: 20rpx 0;
+}
+.readBook .scroll .change .prev.data-v-1bbdcc6b,
+.readBook .scroll .change .next.data-v-1bbdcc6b {
+  line-height: 60rpx;
+  border: 1rpx solid #ffd700;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
+  width: 188rpx;
+  text-align: center;
+  font-size: 28rpx;
+  color: #ffd700;
+}
+.readBook .scroll .change .prev.marginRight.data-v-1bbdcc6b,
+.readBook .scroll .change .next.marginRight.data-v-1bbdcc6b {
+  margin-right: 20rpx;
+}
+

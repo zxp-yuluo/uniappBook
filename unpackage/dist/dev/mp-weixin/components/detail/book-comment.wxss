@@ -1,0 +1,112 @@
+.book-comment .title.data-v-1821a32e {
+  margin-left: 30rpx;
+  font-size: 32rpx;
+  line-height: 80rpx;
+  border-bottom: 1px solid #eee;
+}
+.book-comment .book-comment-item.data-v-1821a32e {
+  padding: 20rpx 30rpx;
+  border-bottom: 1px solid #eee;
+}
+.book-comment .book-comment-item .user-avatar.data-v-1821a32e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.book-comment .book-comment-item .user-avatar .user-avatar-img.data-v-1821a32e {
+  width: 50rpx;
+  height: 50rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+  margin-right: 10rpx;
+  vertical-align: middle;
+}
+.book-comment .book-comment-item .user-avatar .user-name.data-v-1821a32e {
+  font-size: 24rpx;
+}
+.book-comment .book-comment-item .xingxing.data-v-1821a32e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin: 10rpx 0;
+}
+.book-comment .book-comment-item .xingxing .advice.data-v-1821a32e {
+  font-size: 24rpx;
+  color: #999;
+}
+.book-comment .book-comment-item .xingxing .xing.data-v-1821a32e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-right: 10rpx;
+}
+.book-comment .book-comment-item .xingxing .xing .iconfont.color.data-v-1821a32e {
+  color: #ffd700;
+}
+.book-comment .book-comment-item .other .comment-title.data-v-1821a32e {
+  font-size: 28rpx;
+  margin-bottom: 10rpx;
+}
+.book-comment .book-comment-item .other .comment-content.data-v-1821a32e {
+  text-indent: 2em;
+  font-size: 24rpx;
+  color: #999;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+  margin-bottom: 10rpx;
+}
+.book-comment .book-comment-item .other .comment-other.data-v-1821a32e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-bottom: 10rpx;
+  font-size: 24rpx;
+  color: #999;
+}
+.book-comment .book-comment-item .other .comment-other .comment-other-left.data-v-1821a32e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.book-comment .book-comment-item .other .comment-other .comment-other-left .time.data-v-1821a32e {
+  margin-right: 10rpx;
+}
+.book-comment .book-comment-item .other .comment-other .comment-other-right.data-v-1821a32e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.book-comment .book-comment-item .other .comment-other .comment-other-right .pinglun.data-v-1821a32e {
+  margin-right: 10rpx;
+}
+.book-comment .book-comment-item .other .comment-other .comment-other-right .iconfont.data-v-1821a32e {
+  margin-right: 10rpx;
+}
+.book-comment .more.data-v-1821a32e {
+  text-align: center;
+  line-height: 80rpx;
+  font-size: 24rpx;
+  color: #ffd700;
+}
+

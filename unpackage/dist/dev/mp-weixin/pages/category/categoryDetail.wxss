@@ -1,0 +1,91 @@
+.msg.data-v-175dee08 {
+  padding: 20rpx;
+  text-align: center;
+  color: #666;
+  font-size: 18rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.scroll.data-v-175dee08 {
+  height: calc(100% - 102px);
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  position: relative;
+}
+.categoryDateil.data-v-175dee08 {
+  height: 100%;
+}
+.categoryDateil .type.data-v-175dee08,
+.categoryDateil .mins.data-v-175dee08 {
+  height: 50px;
+  line-height: 50px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  border-bottom: 1rpx solid #f2f2f2;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+.categoryDateil .type .type-item.data-v-175dee08,
+.categoryDateil .mins .type-item.data-v-175dee08,
+.categoryDateil .type .mins-item.data-v-175dee08,
+.categoryDateil .mins .mins-item.data-v-175dee08 {
+  font-size: 26rpx;
+  color: #333;
+  padding: 0 12rpx;
+}
+.categoryDateil .type .type-item.active.data-v-175dee08,
+.categoryDateil .mins .type-item.active.data-v-175dee08,
+.categoryDateil .type .mins-item.active.data-v-175dee08,
+.categoryDateil .mins .mins-item.active.data-v-175dee08 {
+  color: #007aff;
+}
+.categoryDateil .item.data-v-175dee08 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 0 30rpx;
+  margin-top: 24rpx;
+}
+.categoryDateil .item .cover.data-v-175dee08 {
+  margin-right: 24rpx;
+  border: 1rpx solid #dedede;
+  padding: 5rpx 0 0 5rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-flex-shrink: 0;
+          flex-shrink: 0;
+}
+.categoryDateil .item .cover image.data-v-175dee08 {
+  vertical-align: middle;
+  width: 130rpx;
+  height: 176rpx;
+  -webkit-border-radius: 4rpx;
+          border-radius: 4rpx;
+}
+.categoryDateil .item .info.data-v-175dee08 {
+  overflow: hidden;
+}
+.categoryDateil .item .info .title.data-v-175dee08 {
+  font-size: 28rpx;
+}
+.categoryDateil .item .info .desc.data-v-175dee08 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  font-size: 24rpx;
+  color: #666;
+  margin: 17rpx 0;
+}
+.categoryDateil .item .info .other.data-v-175dee08 {
+  font-size: 24rpx;
+  color: #666;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.categoryDateil .item .info .other .dian.data-v-175dee08 {
+  margin: 0 10rpx;
+}
+

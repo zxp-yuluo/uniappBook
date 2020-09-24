@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///C:/Users/zxp_1/Desktop/yuluo/yuluo/main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;AACA;AACA,0F;AACAA,UAAU,CAACC,aAAD,CAAV,C","file":"pages/books/book.js","sourcesContent":["import 'uni-pages';\nimport Vue from 'vue'\nimport Page from './pages/books/book.vue'\ncreatePage(Page)"],"sourceRoot":""}
